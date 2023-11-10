@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on projects & publishing results, on leading student internships, theses & projects and on the design, modeling, analysis & implementation of systems
 
-- 📫 How to reach me: [private email]<josef.strnadel@gmail.com>, [work contact](https://www.fit.vut.cz/person/strnadel/) 
+- 📫 How to reach me: [private email](mailto:josef.strnadel@gmail.com), [work contact](https://www.fit.vut.cz/person/strnadel/) 
 
 <!---
 josef-strnadel/josef-strnadel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
