@@ -14,7 +14,7 @@
   - automate the process of testing applications based on web, GUI etc., of generating a documentation from a source code, ...
 - 💞️ I’m **looking to collaborate on** projects & publishing results, on leading student internships, theses & projects and on the design, modeling, analysis & implementation of systems
 
-- 📫 **You can reach me**, e.g., via [private email](mailto:josef.strnadel@gmail.com), [work contact](https://www.fit.vut.cz/person/strnadel/)
+- 📫 **You can reach me**, e.g., via my [private email](mailto:josef.strnadel@gmail.com) or my [work contact](https://www.fit.vut.cz/person/strnadel/)
 
 <!---
 josef-strnadel/josef-strnadel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
