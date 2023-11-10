@@ -12,6 +12,8 @@
 - 🌱 I’m **currently learning** how to ...
   - reflect uncertainty during various kinds of the analysis, e,g, timing/schedulability analysis, of (mostly real-time) systems
   - automate the process of testing applications based on web, GUI etc., of generating a documentation from a source code, ...
+  - manage/access UPPAAL remotely, e.g., via a web/API
+  - use scripting in Blender
 - 💞️ I’m **looking to collaborate on** projects & publishing results, on leading student internships, theses & projects and on the design, modeling, analysis & implementation of systems
 
 - 📫 **You can reach me**, e.g., via my [private email](mailto:josef.strnadel@gmail.com) or my [work contact](https://www.fit.vut.cz/person/strnadel/)
