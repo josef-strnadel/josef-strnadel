@@ -17,7 +17,7 @@
 - 💞️ I’m **looking to collaborate on**
   - projects & publishing results
   - leading student internships, theses & projects
-  - the design, modeling, analysis & implementation of systems
+  - design, modeling, analysis & implementation of systems
 
 - 📫 **You can reach me**, e.g., via my [private email](mailto:josef.strnadel@gmail.com) or my [work contact](https://www.fit.vut.cz/person/strnadel/)
 
