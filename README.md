@@ -9,7 +9,9 @@
   - application of timed automata and modal logic
   - objects, scenes, animations in Blender (formerly in Imagine, LightWave and Cinema 4D on Amiga)
   - unconventional topics such as digital steganography & steganalysis, autonomous/approximate systems, physically unclonable function, ...
-- 🌱 I’m **currently learning** how to automate the process of testing applications based on web, GUI, ... and the process of generating a documentation from a source code
+- 🌱 I’m **currently learning** how to ...
+  - automate the process of testing applications based on web, GUI, ...
+  - automate the process of generating a documentation from a source code
 - 💞️ I’m **looking to collaborate on** projects & publishing results, on leading student internships, theses & projects and on the design, modeling, analysis & implementation of systems
 
 - 📫 **You can reach me**, e.g., via [private email](mailto:josef.strnadel@gmail.com), [work contact](https://www.fit.vut.cz/person/strnadel/)
