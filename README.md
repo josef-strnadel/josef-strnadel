@@ -1,9 +1,9 @@
 - 👋 Hi, I’m **Josef Strnadel**; actually, I work as an assistant professor at the [Brno University of Technology](https://www.vut.cz)
 - 👀 I’m **interested in** (but not limited to):
-  - dependability & testing 
   - embedded, critical & cyber-physical systems
   - microcontrollers; e.g., those based on ARM, ESP32, ...
   - real-time (operating) systems; e.g., FreeRTOS, uC/OS-II(I), MQX, ...
+  - dependability & testing of systems and their applications
   - uncertainty, its causes & effects to the behavior of systems
   - modeling & analysis of dynamic systems and formal verification & model checking, statistical model checking in UPPAAL, ...
   - application of timed automata and modal logic
