@@ -12,7 +12,7 @@
 - 🌱 I’m **currently learning** how to ...
   - reflect uncertainty during various kinds of the analysis, e,g, timing/schedulability analysis, of (mostly real-time) systems
   - automate the process of testing applications based on web, GUI etc., of generating a documentation from a source code, ...
-  - manage/access UPPAAL remotely, e.g., via a web/API
+  - allow a remote, multi-user management/access of/to UPPAAL, e.g., via a web/API
   - use scripting in Blender
 - 💞️ I’m **looking to collaborate on**
   - projects & publishing results
