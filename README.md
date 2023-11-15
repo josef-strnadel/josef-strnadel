@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Josef Strnadel**; actually, I work as an assistant professor at the [Brno University of Technology](https://www.vut.cz)
 - 👀 I’m **interested in** (but not limited to):
-  - embedded, critical & cyber-physical systems (especially, based on microcontrollers using ARM, ESPx, MSPx, STMx, HC(S)08, ...)
+  - embedded, critical & cyber-physical systems (especially, based on CPUs such as ARM, ESPx, MSPx, STMx, HC(S)08, ...)
   - real-time (operating) systems; baremetal and/or based on FreeRTOS, uC/OS-II(I), Mbed, MQX, ...
   - modeling & analysis of systems; (statistical) model checking using UPPAAL, ...
   - dependability, testing and profiling of systems and their applications (at various abstraction levels)
