@@ -1,0 +1,15 @@
+- 👋 Hi, my name is **Josef Strnadel** - welcome on my personal GitHub page!
+- 👀 I’m **interested in** (but not limited to):
+  - embedded, critical & cyber-physical systems (especially, based on CPUs such as ARM, ESPx, ...)
+  - modeling & analysis of systems; (statistical) model checking using UPPAAL, ...
+  - real-time (operating) systems RT(O)S; baremetal and/or (RT)OS (FreeRTOS, uC/OS-II(I), ...) solutions,
+  - dependability, testing and profiling of systems and their applications (at various abstraction levels)
+  - objects, scenes, animations in Blender (formerly in Imagine, LightWave and Cinema 4D on Amiga)
+  - unconventional topics (e.g., digital steganography & steganalysis, autonomous/approximate systems, physically unclonable function)
+- 🌱 I’m **currently learning** how to ...
+  - use machine learning for detecting anomalies and optimizing maintenance w.r.t. systems with limited resources (embedded, IoT etc.) 
+  - reflect uncertainty during various kinds of the analysis, e.g, timing/schedulability analysis, of (mostly real-time) systems
+- 💞️ I’m **looking to collaborate on**
+  - projects & promoting/publishing results
+
+- 📫 Feel free to **contact me** via josef.strnadel@gmail.com
